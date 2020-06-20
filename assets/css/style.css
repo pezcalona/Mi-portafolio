@@ -5,3 +5,53 @@ body {
 .textonombre {
     font-size: 40px;
 }
+
+.imgFondo {
+    background-image: url('../img/bg-hero.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    height: 100vh;
+    margin-top: 50px;
+}
+
+.encabezado1 {
+    padding-top: 460px;
+    font-size: 40px;
+    font-weight: 200;
+}
+
+.encabezado2 {
+    font-size: 40px;
+}
+
+.titulo1 {
+    font-size: 35px;
+}
+
+.titulo2 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.titulo3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+
+}
+
+.colortx {
+    color: #373A3C;
+}
+
+.icono {
+    color: #007Bff;
+}
+
+.titulo2 a {
+    color: #373A3C;
+}
+
+.titulo2 a:hover {
+    color: #373A3C;
+}
