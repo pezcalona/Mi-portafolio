@@ -45,7 +45,7 @@ body {
 }
 
 .icono {
-    color: #007Bff;
+    color: #28A745;
 }
 
 .titulo2 a {
@@ -54,4 +54,19 @@ body {
 
 .titulo2 a:hover {
     color: #373A3C;
+}
+
+.titulo4 {
+    font-size: 35px;
+}
+
+.card-title {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.card-text {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
 }
