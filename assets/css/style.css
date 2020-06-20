@@ -70,3 +70,11 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
 }
+
+.iconos a {
+    color: #ffffff;
+}
+
+.iconos a:hover {
+    color: #ffffff;
+}
