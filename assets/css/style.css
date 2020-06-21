@@ -20,7 +20,7 @@ body {
 }
 
 .encabezado1 {
-    padding-top: 460px;
+    padding-top: 520px;
     font-size: 40px;
     font-weight: 200;
 }
@@ -100,27 +100,50 @@ body {
 @media (min-width: 768px) and (max-width: 991.98px) {
     .imgFondo {
         background-position: center top;
-        height: 100vh;
-        margin-top: 50px;
-    }
-}
-
-@media (min-width: 992px) and (max-width: 1199.98px) {
-    
-}
-
-@media (min-width: 1200px) {
-    .imgFondo {
-        background-position: center top;
-        height: 155vh;
+        height: 100%;
         margin-top: 50px;
     }
     .encabezado1 {
-        padding-top: 970px;
+        padding-top: 700px;
         font-size: 75px;
         font-weight: 200;
     }    
     .encabezado2 {
         font-size: 75px;
+        padding-bottom: 50px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .imgFondo {
+        background-position: center top;
+        height: 100%;
+        margin-top: 50px;
+    }
+    .encabezado1 {
+        padding-top: 990px;
+        font-size: 75px;
+        font-weight: 200;
+    }    
+    .encabezado2 {
+        font-size: 75px;
+        padding-bottom: 50px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .imgFondo {
+        background-position: center top;
+        height: 100%;
+        margin-top: 50px;
+    }
+    .encabezado1 {
+        padding-top: 990px;
+        font-size: 75px;
+        font-weight: 200;
+    }    
+    .encabezado2 {
+        font-size: 75px;
+        padding-bottom: 50px;
     }
 }
